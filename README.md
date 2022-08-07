@@ -1,13 +1,13 @@
 # BarberFactory
 
-# Landing Page responsiva para apresentar uma barbearia
+# Landing Page responsiva resultado do desafio da Next Level Week da Rocketseat.
 
-Neste projeto criei uma ladingpage responsiva com as tecnologias de front end (js, css, html) <br /><br/>
+Neste projeto criei uma ladingpage responsiva com as tecnologias HTML, CSS e Javacript para o comportamento geral <br /><br/>
 Utilizei a biblioteca scrollreveal.js para suavizar as animações dos elementos que surgem na tela, acesse para saber mais: https://scrollrevealjs.org/ <br /><br />
 
 ### Resultado final
 
-<a href="https://alizoncaetano.github.io/BarberFactory/"> Acesse: Barber Factory</a>
+<a href="https://alizoncaetano.github.io/BarberFactory/">Barber Factory</a>
 
 ## 🚀 Iniciando o projeto
 
@@ -15,4 +15,4 @@ Para iniciar o programa basta executar o arquivo `index.html` em um browser de s
 
 ---
 
-##### Coded with love by Alison Caetano
+##### Coded by <a href="https://www.linkedin.com/in/alisoncaetano/">Alison Caetano</a>
